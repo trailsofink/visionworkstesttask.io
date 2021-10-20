@@ -276,7 +276,7 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
-  border: 1px none #000;
+  border-top: 1px solid #8e8e8e;
 }
 
 .product-description {
@@ -364,37 +364,10 @@
 }
 
 #w-node-f718f733-d1e1-2470-c43b-dd54e03de01a-40dc5807 {
-  -webkit-align-self: start;
-  -ms-flex-item-align: start;
-  -ms-grid-row-align: start;
-  align-self: start;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
   -ms-grid-column-align: center;
   justify-self: center;
-}
-
-#w-node-_3ace1993-5cef-c70b-cf12-70a98d8d8256-40dc5807 {
-  -ms-grid-column-align: center;
-  justify-self: center;
-  -webkit-align-self: start;
-  -ms-flex-item-align: start;
-  -ms-grid-row-align: start;
-  align-self: start;
-}
-
-#w-node-_69ae5cb6-a153-f141-5d11-0bff865fb82b-40dc5807 {
-  -webkit-align-self: start;
-  -ms-flex-item-align: start;
-  -ms-grid-row-align: start;
-  align-self: start;
-  -ms-grid-column-align: center;
-  justify-self: center;
-}
-
-#w-node-_501cf2fe-785c-c750-31aa-d1bdfbd39e49-40dc5807 {
-  -ms-grid-column-align: center;
-  justify-self: center;
-  -webkit-align-self: start;
-  -ms-flex-item-align: start;
-  -ms-grid-row-align: start;
-  align-self: start;
 }
